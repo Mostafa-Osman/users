@@ -39,9 +39,9 @@ class UsersBodyView extends StatelessWidget {
                 ),
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 2,
-                  crossAxisSpacing: 10,
                   mainAxisSpacing: 10,
-                  childAspectRatio: 0.8,
+                  crossAxisSpacing: 10,
+                  mainAxisExtent: 250,
                 ),
                 itemCount: state.users.length,
                 itemBuilder: (context, index) {
