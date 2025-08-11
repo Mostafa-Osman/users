@@ -2,10 +2,17 @@
 
 This Flutter application fetches and displays a list of users from an API, supports switching
 between dark and light themes and uses GoRouter for navigation.
-![users_dark.png](users_dark.png)
-![users_light.png](users_light.png)
-![user_details_light.png](user_details_light.png)
-![user_details_dark.png](user_details_dark.png)
+
+<p>
+<img src="users_dark.png" alt="Users Dark" width="200"/>
+    
+<img src="users_light.png" alt="Users Light" width="200"/>
+    </p>
+    <p>
+<img src="user_details_light.png" alt="User Details Light" width="200"/>
+
+<img src="user_details_dark.png" alt="User Details Dark" width="200"/>
+</p>
 
 ---
 
