@@ -1,0 +1,1 @@
+/Users/mostafaosman/AndroidStudioProjects/users/build/app/intermediates/cxx/RelWithDebInfo/5f1t1k2i/obj/x86_64

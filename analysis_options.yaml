@@ -1,0 +1,19 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+
+    use_decorated_box: false
+    use_named_constants: true
+    unawaited_futures: true
+    avoid_positional_boolean_parameters: false
+    avoid_function_literals_in_foreach_calls: false
+    flutter_style_todos: false
+    avoid_catches_without_on_clauses: true
+    avoid_relative_lib_imports: true
+    unnecessary_string_escapes: false
+    prefer_const_constructors: true
+    prefer_final_locals: true
+    always_declare_return_types: true
+    type_annotate_public_apis: true
+
